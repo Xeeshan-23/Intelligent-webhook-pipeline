@@ -1,0 +1,15 @@
+# Sensitive credentials
+.env
+
+# Python virtual environments
+venv/
+ENV/
+
+# Python compiler cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor specific configurations
+.vscode/
