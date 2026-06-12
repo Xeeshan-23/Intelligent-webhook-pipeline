@@ -26,6 +26,11 @@ By orchestrating the **Google Gemini AI Engine** with native **Pydantic v2 Struc
 
 ---
 
+## License & Contact
+* **Distributed under the MIT License. Made with ❤ by Muhammad Zeeshan Sadiq**
+* **Contact Information: ** mzeeshansadiq@outlook.com
+
+
 ##  Project Directory Structure
 
 ```text
@@ -81,6 +86,3 @@ flexiflow-ai/
     "budget": 2500.0,
     "summary": "Prospect is explicitly looking for an automation developer."
   }}
-
-  License & Contact
-  Distributed under the MIT License. Developed with ❤ by Muhammad Zeeshan Sadiq.
