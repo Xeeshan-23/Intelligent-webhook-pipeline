@@ -28,7 +28,7 @@ By orchestrating the **Google Gemini AI Engine** with native **Pydantic v2 Struc
 
 ## License & Contact
 * **Distributed under the MIT License. Made with ❤ by Muhammad Zeeshan Sadiq**
-* **Contact Information: ** mzeeshansadiq@outlook.com
+* **Contact Information:**  mzeeshansadiq@outlook.com
 
 
 ##  Project Directory Structure
